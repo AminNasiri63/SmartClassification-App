@@ -1,6 +1,6 @@
 # SmartClassifier – Mobile Image Classification with MobileNet
 
-🚀 This Flutter app demonstrates image classification using multiple **MobileNet V1 models** (1.0_224, 0.75_224, and 0.50_224) directly on your smartphone.
+🚀 This Flutter app demonstrates image classification using multiple **MobileNet V1 models** (0.75_224, 0.5_224, and 0.25_224) directly on your smartphone.
 
 ---
 
@@ -28,15 +28,15 @@ You can directly install the app by downloading the APK from this repository:
 
 ## 📸 Demo Video
 
-https://github.com/user-attachments/assets/efb8e449-f49b-44e3-b309-4320d018160e
+https://github.com/user-attachments/assets/a3cf5725-4ddc-4d53-a23a-4ee21c5efc87
 
 ---
 
 ## 🔍 Models Used
 
-- MobileNetV1 1.0_224
 - MobileNetV1 0.75_224
-- MobileNetV1 0.50_224
+- MobileNetV1 0.5_224
+- MobileNetV1 0.25_224
 
 These models are optimized for inference on mobile devices and run entirely offline.
 

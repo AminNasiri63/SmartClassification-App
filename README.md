@@ -39,6 +39,7 @@ https://github.com/user-attachments/assets/a3cf5725-4ddc-4d53-a23a-4ee21c5efc87
 - MobileNetV1 0.25_224
 
 The MobileNet models used in this app output predictions based on the **ImageNet** dataset, which includes **1,000 object classes**.
+
 These models are optimized for inference on mobile devices and run entirely offline.
 
 ---

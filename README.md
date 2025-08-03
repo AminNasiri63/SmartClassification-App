@@ -52,4 +52,4 @@ MIT License.
 
 Feel free to open issues or pull requests if you’d like to improve this project or add features.
 
-📬 For questions or collaboration, contact me at: **amin.nasiri.eng@gmail.com**
+📬 For questions or collaboration, contact me at: **aminnassiri63@gmail.com**

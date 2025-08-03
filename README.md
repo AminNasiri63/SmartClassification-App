@@ -18,13 +18,18 @@ Whether you're a developer, researcher, or AI enthusiast, this app helps explore
 
 ## 📦 APK Download
 
-> You can directly install the app using this link:
+You can directly install the app by downloading the APK from this repository:
+
+**[📥 Download SmartClassifier APK](./SmartClassifier.apk)**
+
+📌 _Note: The app is currently undergoing review for release on the Google Play Store. Once published, the Play Store link will be added here._
 
 ---
 
 ## 📸 Demo Video
 
-> Check out how it works in action:
+https://github.com/user-attachments/assets/efb8e449-f49b-44e3-b309-4320d018160e
+
 ---
 
 ## 🔍 Models Used
@@ -39,10 +44,12 @@ These models are optimized for inference on mobile devices and run entirely offl
 
 ## 📜 License
 
-MIT License (or specify yours)
+MIT License.
 
 ---
 
 ## 🤝 Contributions
 
-Feel free to open issues or pull requests!
+Feel free to open issues or pull requests if you’d like to improve this project or add features.
+
+📬 For questions or collaboration, contact me at: **amin.nasiri.eng@gmail.com**

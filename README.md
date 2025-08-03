@@ -20,7 +20,7 @@ Whether you're a developer, researcher, or AI enthusiast, this app helps explore
 
 You can directly install the app by downloading the APK from this repository:
 
-**[📥 Download SmartClassifier APK](.app/SmartClassifier.apk)**
+**[📥 Download SmartClassifier APK](apk/SmartClassifier.apk)**
 
 📌 _Note: The app is currently undergoing review for release on the Google Play Store. Once published, the Play Store link will be added here._
 
